@@ -18,3 +18,4 @@ COPY entrypoint.sh /entrypoint.sh
 
 ## Code to run when the docker container starts
 ENTRYPOINT ["/entrypoint.sh"]
+
